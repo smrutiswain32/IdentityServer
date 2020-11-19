@@ -25,7 +25,6 @@ namespace IdentityServer
                     Scopes = new List<string>
                     {
                         "apiscope",
-
                     }
                 },
             };
